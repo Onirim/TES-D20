@@ -1,29 +1,11 @@
-# My Game System
+Je vous propose de joueur dans l'univers de The Elder Scrolls, après les évènements de Skyrim (An 201 4e ère).
 
-In this section, you can present the game system you use to your players, as well as your house rules. 
+Le système de jeu sera Donjon & Dragons 3e edition (3.5 pour les intimes), une édition que j'aime beaucoup car j'ai débuté le JDR dessus.
 
-**For the purposes of this demo, I invite you to explore the features of Camply TTRPG Manager and follow a small example campaign with the campaign follow code `85E0AEBC`**
+Le jeu se déroulera, pour le moment en Cyrodiil, mais la province étant cosmopolite, les personnages peuvent venir de partout, un détail important cependant, les personnages ne sont pas des héros, à la manière d'un Elder Scrolls, ils commencent en étant... Bah pas grand chose bien entendu. Tamriel est vaste, diverse et dangereuse, il y a de nombreux dangers et possibilités partout sur la carte. Des ombres du passé dans de sombres donjons, des menaces divines qui planent sur Nirn et des rancoeurs encore forte chez certains.
 
-## Characters Tab
+La guerre est finie, le traité de l'or blanc a disparu, le Thalmor a perdu. Les îles du dominion Aldmerri ont pliés le genou à nouveau pour rentrer sous contrôle de l'Empire. Dans ce contexte de paix renouvelé, la Grande Guilde des Lames de l'Empire est florissante. Héritière des Lames disparue en l'an 175, cette guilde officiellement sous tutelle impériale est composée de personnes de toutes horizons, leur rôle ? Si la protection de l'Empereur n'est plus de leur ressort, la chasse aux créatures oui, après tout les lames sont des chasseurs de dragons... Alors ils traquent les dangers en Cyrodiil et au-delà, rendent des comptes aux plus hauts dignitaires de l'Empire !
 
-This tab allows players to create their characters, and the GM to create NPCs. Each creator owns their creation and can share it individually via a sharing code, as long as the character has been set to public mode.
+Prestigieuse, cette guilde avait accepté de vous voir rejoindre ses rangs ! Jusqu'à cette sombre histoire dans une auberge... Un coup du sort dirons nous...
 
-## Chronicles Tab
-
-This tab allows you to create chronicles. A chronicle is a kind of book where you will add pages over time. GMs love it when their players share the chronicle of their adventures or their personal journals.
-
-## Documents Tab
-
-This tab is reserved for single-page documents, which can be quite rich thanks to the Markdown language and navigation management between the different heading levels of the document. As a GM, you can use it to write your scenarios, present important organizations, describe a city, or even magical items that your characters might have acquired.
-
-## Maps Tab
-
-This tab is more tricky: you need to edit the map-config.js file for pointing to your map picture and adjust the map size in pixels. You can do this multiple time for multiple maps. In the Maps Tab, you can create some map pins and description, and you can share the pins to your players.
-
-## Campaigns Tab
-
-This is where you define which objects (characters, chronicles, documents and maps) are shared with your players. Share your campaign code with your players once, and they will automatically receive new characters, new chronicles, new documents and new maps that you share with them. An object can be shared across multiple campaigns, and players can also subscribe to multiple campaigns, allowing you to manage multiple player tables at once!
-
-## Transferring an Object
-
-You can transfer ownership of an object (character, chronicle, document, map pins or campaign) to another user via the user menu in the top right corner.
+[Lien vers le manuel de campagne](./pictures/Under the Skies of Tamriel - TES D20 - v2.pdf)
