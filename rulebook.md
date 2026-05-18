@@ -8,4 +8,4 @@ La guerre est finie, le traité de l'or blanc a disparu, le Thalmor a perdu. Les
 
 Prestigieuse, cette guilde avait accepté de vous voir rejoindre ses rangs ! Jusqu'à cette sombre histoire dans une auberge... Un coup du sort dirons nous...
 
-[Lien vers le manuel de campagne](./pictures/Under the Skies of Tamriel - TES D20 - v2.pdf)
+[Lien vers le manuel de jeu v2](https://onirim.github.io/TES-D20/pictures/Under%20the%20Skies%20of%20Tamriel%20-%20TES%20D20%20-%20v2.pdf)
