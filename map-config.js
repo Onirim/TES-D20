@@ -14,20 +14,20 @@ const MAP_CONFIG = {
   //     avec key: 'default' comme première carte.
   maps: [
     {
-      key:         'default',              // ← identifiant unique, ne pas changer si données existantes
-      name:        'Default Map',     // ← nom affiché dans le sélecteur
-      image:       './pictures/map.png',
-      imageWidth:  4095,
-      imageHeight: 4095,
+      key:         'cyrodiil',              // ← identifiant unique, ne pas changer si données existantes
+      name:        'Cyrodiil',     // ← nom affiché dans le sélecteur
+      image:       './pictures/Cyrodiil.jpg',
+      imageWidth:  1280,
+      imageHeight: 1045,
     },
     // Décommentez et remplissez pour ajouter d'autres cartes :
-     {
-      key:         'region',              // ← identifiant unique, ne pas changer si données existantes
-      name:        'Region Map',     // ← nom affiché dans le sélecteur
-      image:       './pictures/map.png',
-      imageWidth:  4095,
-      imageHeight: 4095,
-    },
+    // {
+    //  key:         'region',              // ← identifiant unique, ne pas changer si données existantes
+    //  name:        'Region Map',     // ← nom affiché dans le sélecteur
+    //  image:       './pictures/map.png',
+    //  imageWidth:  4095,
+    //  imageHeight: 4095,
+    //},
     // {
     //   key:         'dungeon',
     //   name:        'Donjon',
