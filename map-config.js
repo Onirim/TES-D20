@@ -19,6 +19,16 @@ const MAP_CONFIG = {
       image:       './pictures/Cyrodiil.jpg',
       imageWidth:  1280,
       imageHeight: 1045,
+      markerColorLabels: {
+        '#e05c5c': 'Rouge', //rouge
+        '#e07a3a': 'Orange', //orange
+        '#e8c46a': 'Jaune', //jaune
+        '#5cbf7a': 'Vert', //vert
+        '#5c9be0': 'Bleu', //bleu
+        '#9b7de8': 'Violet', //violet
+        '#e05c9b': 'Rose', //rose
+        '#5cbfbf': 'Turquoise', //turquoise
+      },
     },
     // Décommentez et remplissez pour ajouter d'autres cartes :
     // {
