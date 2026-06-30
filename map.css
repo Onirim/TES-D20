@@ -257,6 +257,13 @@
   overflow: hidden;
   text-overflow: ellipsis;
 }
+/* ══════════════════════════════════════════════════════════════
+   LIBELLÉS PERMANENTS — affiche tous les noms de marqueurs
+   ══════════════════════════════════════════════════════════════ */
+.map-viewport.labels-visible .map-marker-label {
+  opacity: 1;
+  transform: translateX(-50%) translateY(-4px);
+}
 
 /* ══════════════════════════════════════════════════════════════
    POPUP D'INFO MARQUEUR (clic sur un marqueur)
